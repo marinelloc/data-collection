@@ -1,1 +1,1 @@
-# data-collection
+This project utilizes web scraping techniques to extract data from Mars-related websites. Python libraries such as BeautifulSoup and automated browsing tools are employed to parse HTML content efficiently. Data is stored using Python data structures, and optional file exportation is facilitated through JSON serialization. Additionally, data analysis techniques may be employed in Part 2.
